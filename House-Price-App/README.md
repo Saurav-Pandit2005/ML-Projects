@@ -142,8 +142,13 @@ Through this project, I worked with:
 
 **Saurav Pandit**
 
-* GitHub: [Saurav-Pandit2005](https://github.com/Saurav-Pandit2005)
-* Portfolio: [saurav-portfolio-eosin.vercel.app](https://saurav-portfolio-eosin.vercel.app)
+<a href="https://github.com/Saurav-Pandit2005">
+  <img src="https://img.shields.io/badge/GitHub-Saurav--Pandit2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://saurav-portfolio-eosin.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Saurav%20Pandit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 ---
 
