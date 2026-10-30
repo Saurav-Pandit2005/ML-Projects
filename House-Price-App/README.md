@@ -129,15 +129,6 @@ Through this project, I worked with:
 * Building interactive ML applications with Streamlit
 * Deploying machine learning applications to the cloud
 
-## Future Improvements
-
-* Add additional housing features for improved prediction accuracy
-* Compare multiple regression algorithms
-* Add data visualization and exploratory analysis
-* Improve model performance through hyperparameter tuning
-* Add prediction confidence or price range
-* Improve the user interface and prediction experience
-
 ## Author
 
 **Saurav Pandit**
